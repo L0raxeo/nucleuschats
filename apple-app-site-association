@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "FA45M2PG8T.com.aplnt.Nucleus",
-        "paths": ["/joinchat/*"]
+        "paths": ["*"]
       }
     ]
   }
